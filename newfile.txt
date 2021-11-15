@@ -1,0 +1,10 @@
+THis is the basic git trainning
+
+Q: What is the difference between add, commit and push?
+
+A: 
+add: adds the changed files to the staging area which to be committed. Not yet commited for "git add"
+
+commit: commits the changed files in the staging area (created from the "git add") to the repository.
+
+push: pushes the commits or changes to the remote repository
